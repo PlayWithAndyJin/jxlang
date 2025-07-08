@@ -1,5 +1,5 @@
 # JxLang 0.3.126
-<a href="README.md">简体中文</a> | English
+<a href="README.md">简体中文</a> | English<br><br>
 A lightweight, custom programming language designed for simplicity and interactive scripting. Built on top of Python, `jxlang` offers a REPL environment and supports basic programming constructs such as variables, loops, functions, and library imports. 
 
 JxLang is based on a multi-layered language architecture—like a virtual machine within a virtual machine—making it a fun tool for experimentation and learning. However, due to its design, JxLang is intended purely for entertainment and casual tinkering, and is **not** suitable for production or real-world project development.
